@@ -46,12 +46,12 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Mingjie Zhao
+  name: "Mingjie Zhao"
   email: "mz136@duke.edu"
   #facebook:   # eg. daattali
-  github: mingjiezhao    # eg. daattali
+  github: "mingjiezhao"    # eg. daattali
   # twitter: yourname   # eg. daattali
-   linkedin: mingjiezhao  # eg. daattali
+   linkedin: "mingjiezhao"  # eg. daattali
   # snapchat: yourname  # eg. daattali
   # instagram: yourname # eg. daattali
   # youtube: yourlink   # eg. user/daattali or channel/daattali
